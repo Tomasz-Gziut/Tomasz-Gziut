@@ -1,16 +1,12 @@
-## Hi there 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tomasz-Gziut&show_icons=true&count_private=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasz-Gziut&layout=compact&theme=tokyonight)
+![snake gif](https://github.com/Tomasz-Gziut/Tomasz-Gziut/blob/output/github-contribution-grid-snake.svg)
 
-<!--
-**Tomasz-Gziut/Tomasz-Gziut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
+![HTML5](https://img.shields.io/badge/Code-HTML5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/Code-CSS3-blue?logo=css3)
+![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visual-studio-code)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Visitors](https://komarev.com/ghpvc/?username=Tomasz-Gziut&color=blue)
