@@ -3,7 +3,6 @@
 
 ![Top Langs - Compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasz-Gziut&layout=compact&theme=tokyonight)
 ![Top Langs - Default](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasz-Gziut&layout=default&theme=dracula)
-![Top Langs - Hidden HTML/CSS](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasz-Gziut&layout=compact&theme=gruvbox&hide=HTML,CSS)
 
 ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&style=for-the-badge)
