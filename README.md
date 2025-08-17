@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomasz-Gziut)](https://github.com/Tomasz-Gziut/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomasz-Gziut&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Top Langs - Compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasz-Gziut&layout=compact&theme=tokyonight)
 
 ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python&style=for-the-badge)
