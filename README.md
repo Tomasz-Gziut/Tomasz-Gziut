@@ -2,7 +2,6 @@
 ![GitHub Stats - Dracula](https://github-readme-stats.vercel.app/api?username=Tomasz-Gziut&show_icons=true&count_private=true&theme=dracula)
 
 ![Top Langs - Compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasz-Gziut&layout=compact&theme=tokyonight)
-![Top Langs - Default](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasz-Gziut&layout=default&theme=dracula)
 
 ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&style=for-the-badge)
