@@ -4,6 +4,7 @@
 ![Top Langs - Compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasz-Gziut&layout=compact&theme=tokyonight)
 
 ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python&style=for-the-badge)
+
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/Code-HTML5-orange?logo=html5&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/Code-CSS3-blue?logo=css3&style=for-the-badge)
