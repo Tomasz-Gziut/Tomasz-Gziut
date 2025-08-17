@@ -1,12 +1,9 @@
-![GitHub Stats - TokyoNight](https://github-readme-stats.vercel.app/api?username=Tomasz-Gziut&show_icons=true&count_private=true&theme=tokyonight)
+
 ![GitHub Stats - Dracula](https://github-readme-stats.vercel.app/api?username=Tomasz-Gziut&show_icons=true&count_private=true&theme=dracula)
-![GitHub Stats - Radical](https://github-readme-stats.vercel.app/api?username=Tomasz-Gziut&show_icons=true&count_private=true&theme=radical)
 
 ![Top Langs - Compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasz-Gziut&layout=compact&theme=tokyonight)
 ![Top Langs - Default](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasz-Gziut&layout=default&theme=dracula)
 ![Top Langs - Hidden HTML/CSS](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasz-Gziut&layout=compact&theme=gruvbox&hide=HTML,CSS)
-
-![snake gif](https://github.com/Tomasz-Gziut/Tomasz-Gziut/blob/output/github-contribution-grid-snake.svg)
 
 ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&style=for-the-badge)
@@ -16,15 +13,8 @@
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visual-studio-code&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Code-Node.js-green?logo=node.js&style=for-the-badge)
 ![React](https://img.shields.io/badge/Framework-React-blue?logo=react&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Tools-Docker-blue?logo=docker&style=for-the-badge)
 
-![Visitors](https://komarev.com/ghpvc/?username=Tomasz-Gziut&color=blue)
-![GitHub stars](https://img.shields.io/github/stars/Tomasz-Gziut?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/Tomasz-Gziut?style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/Tomasz-Gziut?label=Followers&style=for-the-badge)
 ![GitHub release](https://img.shields.io/github/v/release/Tomasz-Gziut?style=for-the-badge)
 ![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Tomasz-Gziut&theme=dracula)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Tomasz-Gziut&theme=dracula&margin-w=15&margin-h=15)
-
-![Repo Card Example](https://github-readme-stats.vercel.app/api/pin/?username=Tomasz-Gziut&repo=example-repo&theme=tokyonight)
