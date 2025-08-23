@@ -1,8 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomasz-Gziut&show_icons=true&bg_color=00000000)
 ![Top Langs - Compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasz-Gziut&layout=compact&theme=tokyonight)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tomasz-Gziut)](https://github.com/Tomasz-Gziut/github-readme-stats)
-
 ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python&style=for-the-badge)
 
 
