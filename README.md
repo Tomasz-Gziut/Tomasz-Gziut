@@ -18,4 +18,3 @@
 
 ![React](https://img.shields.io/badge/Framework-React-blue?logo=react&style=for-the-badge)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Tomasz-Gziut&theme=dracula&margin-w=15&margin-h=15)
